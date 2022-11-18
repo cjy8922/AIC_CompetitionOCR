@@ -13,7 +13,7 @@
 (Official code: https://github.com/clovaai/deep-text-recognition-benchmark)
 - SATRN: LEE, Junyeop, et al. On recognizing texts of arbitrary shapes with 2D self-attention. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops. 2020. p. 546-547. 
 
-(Not official code: https://github.com/Media-Smart/vedastr)
+**(Not official code, but we applied this code to train OCR model: https://github.com/Media-Smart/vedastr)**
 
 ## Library
 <img src="https://img.shields.io/badge/lmdb-1.3.0-green"/> <img src="https://img.shields.io/badge/exrex-0.10.5-yellowgreen"/> <img src="https://img.shields.io/badge/nltk-3.7-yellowgreen"/> 

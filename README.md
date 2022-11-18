@@ -8,8 +8,12 @@
 광학 문자 인식 Task로 주어진 데이터를 보고 어떤 문제가 있고, OCR 모델의 정확도를 향상시키기 위해선 이 문제들을 어떻게 해결해야 하는지 위주로 접근했습니다.
 
 ## Reference
-- TPS-Resnet-BiLSTM-Attn: BAEK, Jeonghun, et al. What is wrong with scene text recognition model comparisons? dataset and model analysis. In: Proceedings of the IEEE/CVF international conference on computer vision. 2019. p. 4715-4723. (code: https://github.com/clovaai/deep-text-recognition-benchmark)
-- SATRN: LEE, Junyeop, et al. On recognizing texts of arbitrary shapes with 2D self-attention. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops. 2020. p. 546-547. (code: https://github.com/Media-Smart/vedastr)
+- TPS-Resnet-BiLSTM-Attn: BAEK, Jeonghun, et al. What is wrong with scene text recognition model comparisons? dataset and model analysis. In: Proceedings of the IEEE/CVF international conference on computer vision. 2019. p. 4715-4723. 
+
+(Official code: https://github.com/clovaai/deep-text-recognition-benchmark)
+- SATRN: LEE, Junyeop, et al. On recognizing texts of arbitrary shapes with 2D self-attention. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops. 2020. p. 546-547. 
+
+(Not official code: https://github.com/Media-Smart/vedastr)
 
 ## Library
 <img src="https://img.shields.io/badge/lmdb-1.3.0-green"/> <img src="https://img.shields.io/badge/exrex-0.10.5-yellowgreen"/> <img src="https://img.shields.io/badge/nltk-3.7-yellowgreen"/> 
